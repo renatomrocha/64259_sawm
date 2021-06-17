@@ -1,0 +1,8 @@
+userId: 60573c4be67c22b31929f2d5
+exchangeId: 60576486f6d0e74067b7065c
+
+TestNet keys:
+
+apikey: rpvp7W9Cv15hXILjdBRfVxoIOR9ypU3Ba5q97d7iaD0CFl0FRvY6kjBqzfgrszi6
+
+secretkey: KRCKGEG3IP7EryOfbc2bkkIyZoDSYGdMFt0xjgxKjIZwXC9cYwFOBhoMVEJLM1Kg
